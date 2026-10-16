@@ -1,9 +1,0 @@
-BANK INTEGRITY CHECK
-Total questions: 180
-Unique question texts: 180
-numberSystemQuestions: 45 total; sets = 15, 15, 15
-hcfLcmQuestions: 45 total; sets = 15, 15, 15
-averagesQuestions: 45 total; sets = 15, 15, 15
-remainderQuestions: 45 total; sets = 15, 15, 15
-Every question has 4 distinct options and an answer index in the 0..3 range.
-The answer index points to the declared correct option used during question authoring.
