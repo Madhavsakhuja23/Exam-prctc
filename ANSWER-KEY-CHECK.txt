@@ -1,0 +1,8 @@
+QUESTION BANK CHECK
+180 question objects: PASS
+3 sets x 60 questions: PASS
+15 questions per topic per set: PASS
+Duplicate question text across all sets: NONE
+Each question has 4 unique options and valid answer index: PASS
+
+Difficulty increased: multi-step divisibility, divisor counting, factorial trailing zeroes, modular powers, Fermat-style problems, HCF/LCM applications, weighted averages and average speed.
